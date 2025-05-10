@@ -38,13 +38,3 @@ This project predicts hourly CitiBike demand using historical data, and provides
 - `folium` (optional for mapping)
 
 ---
-
-## 📸 Screenshots
-
-### 🔍 Monitoring Dashboard
-
-![Dashboard](./screenshots/monitor_dashboard.png)
-
----
-
-## 🧠 Project Structure
